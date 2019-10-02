@@ -4,3 +4,7 @@
 *.ptx
 *.cubin
 *.fatbin
+build
+*so
+.vscode
+__pycache__
